@@ -11,11 +11,7 @@ We will be updating this website everyday, We will also make new links everytime
 Join our discord, info in our website!
 
 # Links
-https://mathcaculator.site/ <br>
 https://glatic.games <br>
-https://the-glatics.github.io/glaticgames/ <br>
-https://glaticgames.netlify.app<br>
-https://flushed.cyou
 
 <br>More Coming Out Soon!!!......
 <br/> 
@@ -45,7 +41,5 @@ And incase if you cant read and your a freakin kindergardener and have 1 brain c
 •Last step is to go to seetings
 settings is above the coding places
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Glitch.me:| https://glitch.com/edit/#!/remix/aware-rambunctious-honesty
 
 Making more ways to deploy ( such as replit,  etc )...
